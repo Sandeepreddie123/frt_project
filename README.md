@@ -13,10 +13,6 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 # Features
 -  Good UI
 
--  Separate pages according to our semesters
-
--  Every Pdf Will load from drive for instant view or for download
-
 -  Easy To Navigate
 
 -  User Friendly
@@ -47,15 +43,15 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 # About Us
 We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
 
--  Uday Kiran Pamu(Lead)
+-  K Sandeep Reddy(Lead)
 
--  G Mallika
+-  K Dilep Kumar
 
--  N Srilatha
+-  CH Srihari 
 
--  M Poojitha
+-  Venkat
 
 
 # Privacy Policies 
 
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+https://www.freeprivacypolicy.com/live/5b6026fd-b6bb-42d1-9b9f-a688fa54902a
